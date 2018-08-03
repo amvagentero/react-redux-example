@@ -1,5 +1,11 @@
 # Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
+to be used: 
+https://github.com/enaqx/awesome-react
+http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
+
+
 ## Get Started
 1. **Install [Node 6](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
 2. **Clone this repository.** - `git clone https://github.com/coryhouse/pluralsight-redux-starter.git` or [download the zip](https://github.com/coryhouse/pluralsight-redux-starter/archive/master.zip)
